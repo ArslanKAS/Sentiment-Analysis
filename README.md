@@ -1,1 +1,1 @@
-# IMDb Sentiment Analysis
+# IMDb Reviews Sentiment Analysis
